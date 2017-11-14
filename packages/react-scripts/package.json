@@ -21,6 +21,9 @@
   "bin": {
     "react-scripts": "./bin/react-scripts.js"
   },
+  "scripts": {
+    "yarn": "yarn install --pure-lockfile"
+  },
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
