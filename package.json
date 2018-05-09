@@ -5,7 +5,7 @@
     "start": "lerna run start --scope haiku-ui"
   },
   "devDependencies": {
-    "lerna": "^2.4.0"
+    "lerna": "2.4.0"
   },
   "workspaces": [
     "packages/*"
